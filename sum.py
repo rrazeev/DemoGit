@@ -1,1 +1,1 @@
-print("This is sum code")
+print("This is sum code for learning purpose")
